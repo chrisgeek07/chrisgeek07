@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisgeek07, you can call me Chris.
 - 👀 I’m interested in learning and improving my skills as a Web Developer.
-- 🌱 I’m currently learning JavaScript, React and Node JS.
+- 🌱 I’m currently learning JavaScript, Ruby/ROR, React and Node JS.
 - 💞️ I’m looking to collaborate on any interesting front-end projects.
 - 📫 How to reach me IG : [@chrisgeek07] Twitter : [@chrisgeek07]
 
