@@ -34,6 +34,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="RubyOnRails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="Heroku" width="26px" src="https://www.logolynx.com/images/logolynx/eb/ebaa693ae4360bf919ad005ac749064e.png" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
