@@ -2,7 +2,7 @@
  ###  Hey there, I’m @chrisgeek07, you can call me Chris 👋🏽.
  
 - 👀 I’m interested in learning, improving my skills as a Creative Web Developer and getting more into creative coding.
-- 🌱 I’m currently learning WebGL and ThreeJS.
+- 🌱 I’m currently learning WebGL, ThreeJS and React Three Fiber.
 - 💞️ I’m looking to collaborate on any interesting front-end projects with other creators and developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love the great outdoors, hiking, trail running, hiking, canyoing and play music :musical_note:
